@@ -1,3 +1,6 @@
+ja dit had ik gefixt, maar weet niet hoe je subrscribet in de terminal
+
+
 from sense_hat import SenseHat
 import time
 sense = SenseHat()
